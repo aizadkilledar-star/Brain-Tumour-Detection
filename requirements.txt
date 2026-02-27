@@ -6,4 +6,7 @@ scikit-learn
 streamlit
 pillow
 opencv-python
+
 ipykernel
+
+reportlab
